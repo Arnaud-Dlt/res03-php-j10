@@ -42,12 +42,12 @@ class Author {
         $this->id = $id;
     }
     
-    public function setFirstName(string $first_name) : void
+    public function setFirstName(string $firstName) : void
     {
         $this->firstName = $firstName;
     }
     
-    public function setLastName(string $last_name) : void
+    public function setLastName(string $lastName) : void
     {
         $this->lastName = $lastName;
     }
